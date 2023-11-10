@@ -1,0 +1,24 @@
+{
+  "name": "login",
+  "type": "package",
+  "blockId": "aPR8eujfDQnkxVjNRZtVj",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_login"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "login": {
+      "directory": "login"
+    },
+    "register": {
+      "directory": "register"
+    }
+  }
+}

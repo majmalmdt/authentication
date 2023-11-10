@@ -1,0 +1,20 @@
+{
+  "blockId": "9uu9d2VSWvu8M0QIJ0Vwt",
+  "name": "login",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_login"
+  },
+  "parentBlockIDs": [
+    "aPR8eujfDQnkxVjNRZtVj"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}
